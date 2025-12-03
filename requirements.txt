@@ -1,0 +1,3 @@
+astrbot>=0.4.0  # 匹配你的AstrBot v4+版本
+playwright>=1.40.0
+python-dotenv>=1.0.0
